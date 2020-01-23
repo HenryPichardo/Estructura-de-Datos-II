@@ -1,0 +1,6 @@
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\bin\Debug\PruebaEnumeraciones.exe.config
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\bin\Debug\PruebaEnumeraciones.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\bin\Debug\PruebaEnumeraciones.pdb
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\obj\Debug\PruebaEnumeraciones.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\obj\Debug\PruebaEnumeraciones.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaEnumeraciones\obj\Debug\PruebaEnumeraciones.pdb

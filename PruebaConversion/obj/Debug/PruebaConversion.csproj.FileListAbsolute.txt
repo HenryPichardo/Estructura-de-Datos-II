@@ -1,0 +1,6 @@
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\bin\Debug\PruebaConversion.exe.config
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\bin\Debug\PruebaConversion.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\bin\Debug\PruebaConversion.pdb
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\obj\Debug\PruebaConversion.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\obj\Debug\PruebaConversion.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\PruebaConversion\obj\Debug\PruebaConversion.pdb

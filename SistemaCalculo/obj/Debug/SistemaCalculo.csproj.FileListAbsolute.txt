@@ -1,0 +1,6 @@
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\bin\Debug\SistemaCalculo.exe.config
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\bin\Debug\SistemaCalculo.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\bin\Debug\SistemaCalculo.pdb
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\obj\Debug\SistemaCalculo.csprojAssemblyReference.cache
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\obj\Debug\SistemaCalculo.exe
+C:\Users\Henry Pichardo\Documents\Universidad\Cuatrimestre enero-abril 2020\Estructura de Datos II\SistemaCalculo\obj\Debug\SistemaCalculo.pdb
